@@ -1,2 +1,2 @@
 # CV
-Business card site on HTML &amp; CSS plus JS
+Code for Deployment of business card website on HTML & CSS
